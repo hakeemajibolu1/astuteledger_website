@@ -32,7 +32,7 @@ p {
 }
 
 .text-primary {
-    color: #93cb52;
+    color: #e79e4f;
 }
 
 .bg-light {
@@ -46,7 +46,7 @@ p {
 }
 
 .bg-primary {
-    background: #93cb52;
+    background: #e79e4f;
     color: #fff;
 }
 
@@ -77,14 +77,14 @@ p {
 .btn {
     display: inline-block;
     color: #fff;
-    background: #93cb52;
+    background:#e79e4f;
     padding: 0.5rem 2rem;
     border: none; /* in case class is applied real buttons */
     border-radius: 5px;
 }
 
 .btn:hover {
-    background: #7ab436;
+    background: #ffa36c;
 }
 
 .btn-dark {
@@ -127,7 +127,7 @@ p {
 }
 
 #navbar ul li a:hover {
-    background: #93cb52;
+    background: #e79e4f;
     border-radius: 5px;
 }
 
@@ -168,7 +168,7 @@ p {
 }
 
 #what .items .item i {
-    background: #93cb52;
+    background: #e79e4f;
     padding: 1rem;
     border-radius: 50%;
     margin-bottom: 1rem;
